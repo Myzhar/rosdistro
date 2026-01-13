@@ -12148,6 +12148,7 @@ repositories:
     status: maintained
   zed-ros2-description:
     source:
+      test_pull_requests: true
       type: git
       url: https://github.com/stereolabs/zed-ros2-description.git
       version: main
@@ -12165,6 +12166,7 @@ repositories:
       url: https://github.com/ros2-gbp/zed-ros2-interfaces-release.git
       version: 5.1.1-1
     source:
+      test_pull_requests: true
       type: git
       url: https://github.com/stereolabs/zed-ros2-interfaces.git
       version: jazzy
